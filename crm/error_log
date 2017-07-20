@@ -1,0 +1,61 @@
+[06-Jul-2017 14:29:17 America/Monterrey] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kumocrm/public_html/crm/application/views/admin/includes/setup_menu.php on line 53
+[06-Jul-2017 14:29:19 America/Monterrey] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kumocrm/public_html/crm/application/views/admin/includes/setup_menu.php on line 53
+[06-Jul-2017 14:29:39 America/Monterrey] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kumocrm/public_html/crm/application/views/admin/includes/setup_menu.php on line 53
+[06-Jul-2017 14:29:47 America/Monterrey] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kumocrm/public_html/crm/application/views/admin/includes/setup_menu.php on line 53
+[06-Jul-2017 14:29:49 America/Monterrey] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kumocrm/public_html/crm/application/views/admin/includes/setup_menu.php on line 53
+[10-Jul-2017 12:51:22 America/Monterrey] PHP Fatal error:  Call to undefined method Clients_model::session() in /home/kumocrm/public_html/crm/application/models/Clients_model.php on line 489
+[10-Jul-2017 17:27:02 America/Monterrey] PHP Parse error:  syntax error, unexpected '$kmcompanyid' (T_VARIABLE) in /home/kumocrm/public_html/crm/application/models/Clients_model.php on line 518
+[10-Jul-2017 17:27:38 America/Monterrey] PHP Parse error:  syntax error, unexpected '$kmcompanyid' (T_VARIABLE) in /home/kumocrm/public_html/crm/application/models/Clients_model.php on line 518
+[10-Jul-2017 17:28:16 America/Monterrey] PHP Fatal error:  Call to undefined method Clients_model::query() in /home/kumocrm/public_html/crm/application/models/Clients_model.php on line 516
+[11-Jul-2017 13:25:50 America/Monterrey] PHP Fatal error:  Call to a member function row() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_general_helper.php on line 185
+[11-Jul-2017 13:26:19 America/Monterrey] PHP Fatal error:  Call to undefined method Perfex_Base::where() in /home/kumocrm/public_html/crm/application/controllers/admin/Clients.php on line 22
+[11-Jul-2017 22:12:03 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/kumocrm/public_html/crm/application/controllers/admin/Clients.php on line 23
+[11-Jul-2017 22:12:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/kumocrm/public_html/crm/application/controllers/admin/Clients.php on line 23
+[11-Jul-2017 22:12:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/kumocrm/public_html/crm/application/controllers/admin/Clients.php on line 23
+[11-Jul-2017 22:12:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/kumocrm/public_html/crm/application/controllers/admin/Clients.php on line 23
+[11-Jul-2017 22:12:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/kumocrm/public_html/crm/application/controllers/admin/Clients.php on line 23
+[11-Jul-2017 22:38:43 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/kumocrm/public_html/crm/application/controllers/admin/Clients.php on line 23
+[11-Jul-2017 17:45:31 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[11-Jul-2017 17:47:35 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[11-Jul-2017 17:47:55 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[11-Jul-2017 17:48:38 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[11-Jul-2017 17:55:49 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[11-Jul-2017 17:59:25 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[11-Jul-2017 18:30:29 America/Monterrey] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/kumocrm/public_html/crm/application/views/admin/tables/clients.php on line 136
+[11-Jul-2017 18:30:35 America/Monterrey] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/kumocrm/public_html/crm/application/views/admin/tables/clients.php on line 136
+[11-Jul-2017 18:51:13 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[11-Jul-2017 18:51:44 America/Monterrey] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/kumocrm/public_html/crm/application/views/admin/tables/staff.php on line 32
+[11-Jul-2017 18:51:50 America/Monterrey] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/kumocrm/public_html/crm/application/views/admin/tables/staff.php on line 32
+[11-Jul-2017 18:52:11 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[11-Jul-2017 18:52:49 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[11-Jul-2017 18:53:06 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[12-Jul-2017 09:38:48 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[12-Jul-2017 09:40:19 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[12-Jul-2017 09:42:38 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[12-Jul-2017 11:20:12 America/Monterrey] PHP Fatal error:  Call to a member function select() on null in /home/kumocrm/public_html/crm/application/helpers/perfex_general_helper.php on line 246
+[14-Jul-2017 15:27:42 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[14-Jul-2017 15:28:02 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[14-Jul-2017 15:28:16 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[14-Jul-2017 15:28:36 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[14-Jul-2017 15:28:39 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[14-Jul-2017 15:29:03 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[14-Jul-2017 15:29:16 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[14-Jul-2017 15:29:29 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[14-Jul-2017 15:29:33 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[14-Jul-2017 15:29:39 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[14-Jul-2017 15:29:41 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[17-Jul-2017 16:32:03 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/models/Clients_model.php on line 1368
+[17-Jul-2017 17:45:18 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[17-Jul-2017 17:47:13 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[17-Jul-2017 17:48:07 America/Monterrey] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kumocrm/public_html/crm/application/helpers/perfex_db_helper.php on line 856
+[19-Jul-2017 10:44:11 America/Monterrey] PHP Fatal error:  Call to a member function row() on boolean in /home/kumocrm/public_html/crm/application/models/Authentication_model.php on line 113
+[19-Jul-2017 10:44:17 America/Monterrey] PHP Fatal error:  Call to a member function row() on boolean in /home/kumocrm/public_html/crm/application/models/Authentication_model.php on line 113
+[19-Jul-2017 10:47:01 America/Monterrey] PHP Fatal error:  Call to a member function row() on boolean in /home/kumocrm/public_html/crm/application/models/Authentication_model.php on line 113
+[19-Jul-2017 10:47:03 America/Monterrey] PHP Fatal error:  Call to a member function row() on boolean in /home/kumocrm/public_html/crm/application/models/Authentication_model.php on line 113
+[19-Jul-2017 10:47:31 America/Monterrey] PHP Fatal error:  Call to a member function row() on boolean in /home/kumocrm/public_html/crm/application/models/Authentication_model.php on line 113
+[19-Jul-2017 10:51:18 America/Monterrey] PHP Fatal error:  Call to a member function row() on boolean in /home/kumocrm/public_html/crm/application/models/Authentication_model.php on line 113
+[19-Jul-2017 10:51:36 America/Monterrey] PHP Fatal error:  Call to a member function row() on boolean in /home/kumocrm/public_html/crm/application/models/Authentication_model.php on line 113
+[19-Jul-2017 10:52:35 America/Monterrey] PHP Fatal error:  Call to a member function row() on boolean in /home/kumocrm/public_html/crm/application/models/Authentication_model.php on line 113
+[19-Jul-2017 10:53:39 America/Monterrey] PHP Fatal error:  Call to a member function row() on boolean in /home/kumocrm/public_html/crm/application/models/Authentication_model.php on line 113
+[19-Jul-2017 10:54:01 America/Monterrey] PHP Fatal error:  Call to a member function row() on boolean in /home/kumocrm/public_html/crm/application/models/Authentication_model.php on line 113
+[19-Jul-2017 10:54:38 America/Monterrey] PHP Fatal error:  Call to a member function row() on boolean in /home/kumocrm/public_html/crm/application/models/Authentication_model.php on line 113
