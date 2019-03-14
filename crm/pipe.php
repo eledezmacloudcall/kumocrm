@@ -1,6 +1,6 @@
 #!/usr/local/bin/php
 <?php
-
+/****** No que hago aqui editando el archivo *******/
 error_reporting(1);
 
 $environment = 'development';
@@ -207,5 +207,3 @@ function handle_attachment($structure)
         "contenttype" => $ctype
         );
 }
-
-
