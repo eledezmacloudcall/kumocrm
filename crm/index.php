@@ -40,7 +40,7 @@ if( ! ini_get('date.timezone') )
  * @filesource
  */
 
- /** Aqui se hizo un prueba con GITHUB de escritorio */
+ /** Aqui se hizo un prueba con GITHUB de escritorio desde */
 
 /*
  *---------------------------------------------------------------
